@@ -37,7 +37,7 @@ My name is Nicholas Wong, a Masters of Software Engineering student at the Unive
 
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/voltun)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltun&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltun&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=voltun&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=voltun)  
 
