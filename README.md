@@ -2,6 +2,9 @@
 
 My name is Nicholas Wong, a Masters of Software Engineering student at the University of Melbourne. I am expecting to graduate on December 2022. I am currently interested in seeking job oppurtunities in the software development field. 
 
+## Social
+[![Twitter Badge](https://img.shields.io/badge/-@WongBacon-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wongbacon)](https://twitter.com/wongbacon) [![Linkedin Badge](https://img.shields.io/badge/-Nicholas_Wong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswongcl/) [![Mail Badge](https://img.shields.io/badge/-@nicholasbacon-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nicholasbacon) [![Mail Badge](https://img.shields.io/badge/-Nicholas_Wong-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nicholaswongcl@gmail.com)
+
 ## Tech Stack & Experience
 ### Languages & Frameworks
 <img alt="Java" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" /> <img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png" />
@@ -31,15 +34,21 @@ My name is Nicholas Wong, a Masters of Software Engineering student at the Unive
 <img alt="IntelliJ" src="https://img.icons8.com/color/50/000000/intellij-idea.png" /> 
 
 
-## Social
+<details>
+<summary>
+  More details
+</summary>
+  
+<br >
+  
+  #### GitHub Metrics
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltun&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=voltun&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=voltun)  
+  
+  
+</details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/voltun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholaswongcl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nicholasbacon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wongbacon)  
 
-
-## GitHub Metrics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voltun&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=voltun&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=voltun)  
 
 
 <a href="https://icons8.com">Icons by Icons8</a>
