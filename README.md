@@ -3,7 +3,7 @@
 Final Fantasy X is the best RPG.
 
 ## Social
-[![Twitter Badge](https://img.shields.io/badge/-@WongBacon-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wongbacon)](https://twitter.com/wongbacon) [![Linkedin Badge](https://img.shields.io/badge/-Nicholas_Wong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswongcl/) [![Mail Badge](https://img.shields.io/badge/-@nicholasbacon-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nicholasbacon) [![Mail Badge](https://img.shields.io/badge/-Nicholas_Wong-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nicholaswongcl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nicholas_Wong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswongcl/) [![Mail Badge](https://img.shields.io/badge/-@nicholasbacon-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nicholasbacon) [![Mail Badge](https://img.shields.io/badge/-Nicholas_Wong-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nicholaswong@alumni.unimelb.edu.au)
 
 ## Tech Stack & Experience
 ### Languages & Frameworks
